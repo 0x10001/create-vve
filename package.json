@@ -1,0 +1,23 @@
+{
+  "name": "create-vve",
+  "version": "0.1.5",
+  "license": "MIT",
+  "author": "kurosakana",
+  "main": "index.js",
+  "bin": {
+    "create-vve": "index.js"
+  },
+  "files": [
+    "index.js",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0x10001/create-vve.git"
+  },
+  "homepage": "https://github.com/0x10001/create-vve/tree/master/#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "minimist": "^1.2.5"
+  }
+}
